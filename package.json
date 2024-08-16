@@ -1,0 +1,11 @@
+{
+  "name": "reacthooks",
+  "version": "1.0.0",
+  "description": "All react hook concepts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akash Khandekar",
+  "license": "ISC"
+}
